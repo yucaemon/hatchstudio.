@@ -1,0 +1,12 @@
+/wp-content/uploads
+/wp-content/themes/*
+!/wp-content/themes/*hatch*
+/wp-content/plugins/*
+/wp-content/plugins.disabled
+**/*.swp
+/ucberkeley.org/*
+.idea
+.DS*
+.htaccess
+wp-config.php
+htdocs.iml
